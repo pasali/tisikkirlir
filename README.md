@@ -17,7 +17,7 @@
 		)
 
 		func main() {
-			fmt.Println(tisikkirlir.Tsk("Naber gardaş"))
+			fmt.Println(tisikkirlir.Tsk("Naber gardaş")) // Nibir girdiş
 		}
 ```
 
